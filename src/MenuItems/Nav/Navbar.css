@@ -1,0 +1,31 @@
+* {
+    color: white;
+}
+
+.topNav {
+    background-color: #131921;
+    padding-bottom: 13px;
+}
+
+.logo {
+    width: 115px;
+    height: 43px;
+    cursor: pointer;
+    top: 11px;
+    position: relative;
+    left: 21px;
+}
+
+.loc {
+    z-index: 20;
+    top: -28px;
+    position: relative;
+    left: 151px;
+}
+
+.deliver {
+    font-weight: 300;
+    left: 183px;
+    position: absolute;
+    top: -11px;
+}
